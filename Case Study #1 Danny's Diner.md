@@ -1,6 +1,6 @@
 # 8 Week SQL Challenge Case #1 Danny's Diner
 
-<img src="https://github.com/user-attachments/assets/6c95aa4a-f3b6-4f90-ad88-ce4ed311584c" alt="Image" width="450" height="468">
+![dinerlogo](https://github.com/user-attachments/assets/235d3e70-1ff4-4a84-b8f2-1ba54708261a)
 
 This case study is from the 8 week SQL challenge, and can be found [here](https://8weeksqlchallenge.com/case-study-1/).
 
